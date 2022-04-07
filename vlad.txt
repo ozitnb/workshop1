@@ -1,0 +1,10 @@
+total 8
+-rw-r--r-- 1 vlad.breger_xmcyber 197121  3 Apr  7 16:54 1
+-rw-r--r-- 1 vlad.breger_xmcyber 197121  3 Apr  7 16:54 2
+-rw-r--r-- 1 vlad.breger_xmcyber 197121  3 Apr  7 17:42 3
+-rw-r--r-- 1 vlad.breger_xmcyber 197121 61 Apr  7 17:42 4
+-rw-r--r-- 1 vlad.breger_xmcyber 197121  3 Apr  7 17:42 5
+-rw-r--r-- 1 vlad.breger_xmcyber 197121  3 Apr  7 17:42 6
+-rw-r--r-- 1 vlad.breger_xmcyber 197121  3 Apr  7 17:42 7
+-rw-r--r-- 1 vlad.breger_xmcyber 197121 16 Apr  7 16:48 README.md
+-rw-r--r-- 1 vlad.breger_xmcyber 197121  0 Apr  7 17:42 vlad.txt
